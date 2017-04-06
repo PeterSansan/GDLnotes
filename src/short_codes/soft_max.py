@@ -19,4 +19,4 @@ print(softmax(scores))
 x = np.arange(-2.0, 6.0, 0.1)
 scores = np.vstack([x/10, np.ones_like(x)/10, 0.2 * np.ones_like(x)/10])
 plot(x, softmax(scores).T, linewidth=2)
-
+savefig('./MyFig.jpg')  
