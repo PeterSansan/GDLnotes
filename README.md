@@ -28,6 +28,7 @@
 
 附录：
 - [TensorFlow笔记](note/tensorflow/README.md)
+- [尝试在win10上安装tf](note/hw/win.md)
 
 
 
