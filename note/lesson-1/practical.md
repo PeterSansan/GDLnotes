@@ -1,12 +1,5 @@
 # Practical Aspects of Learning
 
-> Github工程地址：https://github.com/ahangchen/GDLnotes
-
-> 欢迎star，有问题可以到[Issue区](https://github.com/ahangchen/GDLnotes/issues)讨论
-
-> 官方教程[地址](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118170923)
-
-> [视频](http://d2uz2655q5g6b2.cloudfront.net/6370362152/L1%20Machine%20Learning%20to%20Deep%20Learning%20Videos.zip)/[字幕](http://d2uz2655q5g6b2.cloudfront.net/6370362152/L1%20Machine%20Learning%20to%20Deep%20Learning%20Subtitles.zip)下载
    
 
 > 课程目标：学习简单的数据展示，熟悉以后要使用的数据
@@ -115,4 +108,3 @@
   - 但这样需要的数据往往偏多，所以可以尝试交叉验证（cross validation），交叉验证有个缺点是速度慢
   - 验证时，使用tensor.eval(input)，相当于tf.get_default_session().run(tensor)
 
-> 觉得得我的文章对您有帮助的话，就给个[star](https://github.com/ahangchen/GDLnotes)吧～

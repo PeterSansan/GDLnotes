@@ -1,13 +1,5 @@
 # Stochastic Optimization
 
-> Github工程地址：https://github.com/ahangchen/GDLnotes
-
-> 欢迎star，有问题可以到[Issue区](https://github.com/ahangchen/GDLnotes/issues)讨论
-
-> 官方教程[地址](https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118170923)
-
-> [视频](http://d2uz2655q5g6b2.cloudfront.net/6370362152/L1%20Machine%20Learning%20to%20Deep%20Learning%20Videos.zip)/[字幕](http://d2uz2655q5g6b2.cloudfront.net/6370362152/L1%20Machine%20Learning%20to%20Deep%20Learning%20Subtitles.zip)下载
-    
 
 - 实践中大量机器学习都是通过梯度算子来求优化的
 - 但有一些问题，最大的问题就是，梯度很难计算
@@ -51,4 +43,3 @@
     - 使得SGD对参数不像原来那样敏感
     - 自动调整效果不如原来的好，但仍然是一个option
  
-> 觉得得我的文章对您有帮助的话，就给个[star](https://github.com/ahangchen/GDLnotes)吧～
