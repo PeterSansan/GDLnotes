@@ -25,6 +25,7 @@
 - Lessson 4 :[Deep Models for Text and Sequence](note/lesson-4/README.md)
     - [循环神经网络实践](note/lesson-4/rnn_practice.md)
     
+- [另一个版本:](note/another.md)
 
 附录：
 - [TensorFlow笔记](note/tensorflow/README.md)
