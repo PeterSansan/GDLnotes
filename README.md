@@ -1,6 +1,6 @@
 # Google Deep Learning Notes
 
-原版作者[ahangchen](https://github.com/ahangchen/GDLnotes),与之学习经历类似，但学之浅薄，故借鉴之。
+原版作者[ahangchen](https://github.com/ahangchen/GDLnotes),本人与之学习课程类似，但学之浅薄，故借鉴之。
 
 前排提醒：工具归工具，研究归研究，AI的研究唯有打好基础，多看论文，多做实验，方能有所增益。
 
