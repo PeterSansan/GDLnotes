@@ -6,14 +6,14 @@ windows版本先安装cuda，exe安装很方便，不过要满足一样的条件
 ## 2.pip安装
 - **CPU版本安装**
 安装的最好教程还是参考tensorflow的官网，安装指令如下：
-```
+```python
 pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-0.12.0rc1-cp35-cp35m-win_amd64.whl
 ```
 这里的关键就是`--ignorre-installed`，不加的话会为一个错误过不去。
 
 - **GPU版本安装**
 
-```
+```python
 pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-0.12.0rc1-cp35-cp35m-win_amd64.whl
 ```
 **注**：win10的PowerShell的开启与把反应速度很慢，不知是我电脑的问题还是系统的问题，所以一开始是在PowerShell装的，因为慢就想用cmd的打开，结果不能用呀。所以最后卸了conda env，直接改为在cmd中pip安装。
@@ -21,7 +21,7 @@ pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorfl
 
 从这次的安装尝试，我才知道conda流行的原因，它也是一种强大的python包管理工具，具有同virtualenv的功能。下面只介绍GPU版本的安装，其实它的安装只有多加了前面的conda环境的控制 
 
-```
+```python
 conda create -n tensorflow-gpu python=3.5 # 建立一个虚拟环境
 activate tensorflow
 pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-0.12.0rc1-cp35-cp35m-win_amd64.whl
