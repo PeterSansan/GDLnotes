@@ -33,7 +33,7 @@
   
   ![](../../res/softmax.png)
 ### Softmax  
-  - 代码 [soft_max.py](../../src/soft_max.py)：Softmax实现与应用
+  - 代码 [soft_max.py](../../src/short_codes/soft_max.py)：Softmax实现与应用
   - input的score差异越大（可以全部乘10试试），则输出的各项label概率差异越大，反之差异越小
   - Softmax只关心几个label之间的概率，不关心具体值
   - 机器学习是一个让预测成功率升高的事情，因此是一个让score之间差异增大的过程
