@@ -6,13 +6,13 @@
 
 
 笔记列表
-- Lesson 1 : [Machine Learning to Deep Learning](note/lesson-1/README.md)
+- Lesson 1 : Machine Learning to Deep Learning
     - [Logistic Classification](note/lesson-1/logistic_classify.md)
     - [Logistic Classification实践](note/lesson-1/practical.md)
     - [Stochastic Optimization](note/lesson-1/Stochastic_Optimization.md)
 
     
-- Lesson 2 :[Deep Neural Network](note/lesson-2/README.md)
+- Lesson 2 :Deep Neural Network
     - [Limit of Linear Model](note/lesson-2/limit_linear.md)
     - [Neural network](note/lesson-2/neural_network.md)
     - [神经网络实践](note/lesson-2/neural_practical.md)
