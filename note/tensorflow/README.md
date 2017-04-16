@@ -8,4 +8,7 @@
 
 土豪可以打赏支持，一分也是爱
 
-<img src="../../res/wxmoney.jpg" width = "400" height = "400" alt="图片名称" align=center />
+<img src="../../res/wxmoney.jpg" width = "20" height = "20" alt="图片名称" align=center />
+
+
+
